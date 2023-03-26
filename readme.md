@@ -19,7 +19,7 @@
 ## Actions
 - [package-policy](https://github.com/rob-derosa/package-policy) - A GitHub action to enforce that only approved packages are used within a project by providing an allow or prohibit list of packages.
 - [dependabot-actions-workflow](https://github.com/dependabot/dependabot-actions-workflow) - Example workflow for updating Dependabot pull requests
-- [dependabot-kev-action](https://github.com/felickz/dependabot-kev-action) - Action to detect if any open Dependabot alerts are in the list of CISA KEV CVEs and fail the workflow.
+- [dependabot-kev-action](https://github.com/felickz/dependabot-kev-action) - Action to detect if any open Dependabot alerts are in the CISA Known Exploited Vulnerabilities (KEV) Catalog of CVEs and fail the workflow.
 - [policy-as-code](https://github.com/advanced-security/policy-as-code/blob/main/ghascompliance/defaults/policy.yml) - GitHub Advanced Security Policy as Code Action that supports Alerts and License compliance.
 
 ## Advisory Database
