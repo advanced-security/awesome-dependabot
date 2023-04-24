@@ -14,6 +14,7 @@
 - [sbom-generator](https://github.com/jhutchings1/sbom-generator) - Generates an sbom from a repository's dependency graph
 - [gh-sbom](https://github.com/advanced-security/gh-sbom) - Generate SBOMs with gh CLI
 - [spdx-to-dependency-graph-action](https://github.com/jhutchings1/spdx-to-dependency-graph-action) - A GitHub Action that takes SPDX SBOMs and uploads them to GitHub's dependency submission API to power Dependabot alerts
+- [generate-org-repos-sbom-action](https://github.com/joshjohanning/generate-org-repos-sbom-action) - An Action to wrap creating an SBOM for the entire organization via REST API
 
 
 ## Actions
