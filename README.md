@@ -1,4 +1,4 @@
-# awesome-dependabot [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Dependabot [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A curated list of Dependabot (and related software supply chain) resources.
 
