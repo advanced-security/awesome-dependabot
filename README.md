@@ -17,6 +17,11 @@
 - [generate-org-repos-sbom-action](https://github.com/joshjohanning/generate-org-repos-sbom-action) - An Action to wrap creating an SBOM for the entire organization via REST API
 - [generate-sbom-action](https://github.com/advanced-security/generate-sbom-action) - An Action to wrap creating an SBOM via REST API
 
+## Attestation
+- [attest](https://github.com/actions/attest) - Generate signed attestations for workflow artifacts
+- [attest-sbom](https://github.com/actions/attest-sbom) - Generate signed SBOM attestations for workflow artifacts
+- [attest-build-provenance](https://github.com/actions/attest-build-provenance) - Generate signed build provenance attestations for workflow artifacts
+
 ## Dependency Review
 - [blueoak-to-dependency-review](https://github.com/ctcampbell/blueoak-to-dependency-review) - A GitHub Dependency Review compatible YAML file for the Blue Oak Council license list
 
