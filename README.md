@@ -30,6 +30,9 @@
 - [policy-as-code](https://github.com/advanced-security/policy-as-code/blob/main/ghascompliance/defaults/policy.yml) - GitHub Advanced Security Policy as Code Action that supports Alerts and License compliance.
 - [fetch-metadata](https://github.com/dependabot/fetch-metadata) - Extract information about the dependencies being updated by a Dependabot-generated PR.
 
+## Runtime Risk
+- [github/deployment-tracker](https://github.com/github/deployment-tracker) - K8s deployment tracker for artifact registry
+
 ## Advisory Database
 - [osv-schema](https://ossf.github.io/osv-schema/) OSSF OSV schema used by the [advisory-database](https://github.com/github/advisory-database/blob/main/CONTRIBUTING.md)
 - [SecurityAdvisory](https://docs.github.com/en/graphql/reference/objects#securityadvisory) GitHub GraphQL object to query the advisory DB
