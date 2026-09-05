@@ -29,6 +29,7 @@
 - [dependabot-kev-action](https://github.com/advanced-security/dependabot-kev-action) - Action to detect if any open Dependabot alerts are in the CISA Known Exploited Vulnerabilities (KEV) Catalog of CVEs and fail the workflow.
 - [policy-as-code](https://github.com/advanced-security/policy-as-code/blob/main/ghascompliance/defaults/policy.yml) - GitHub Advanced Security Policy as Code Action that supports Alerts and License compliance.
 - [fetch-metadata](https://github.com/dependabot/fetch-metadata) - Extract information about the dependencies being updated by a Dependabot-generated PR.
+- [dependabot-risk](https://github.com/DigiCatalyst-Systems/dependabot-risk) - Ranks Dependabot and Renovate PRs by real risk, reading breaking changes and security fixes from release notes rather than the semver bump.
 
 ## Runtime Risk
 - [github/deployment-tracker](https://github.com/github/deployment-tracker) - K8s deployment tracker for artifact registry
